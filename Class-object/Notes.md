@@ -40,7 +40,7 @@ class ClassName:
     def __init__(self):
         # constructor
         pass
-
+```
 * class → keyword to define a class
 
 * __init__ → constructor, automatically called when object is created

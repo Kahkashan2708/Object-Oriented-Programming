@@ -1,3 +1,4 @@
+## SIngle Inheritance
 Single inheritance occurs when a child class inherits from one parent class.
 
 ```python

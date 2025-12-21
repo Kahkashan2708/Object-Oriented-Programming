@@ -1,6 +1,7 @@
 Single inheritance occurs when a child class inherits from one parent class.
 
-``` class Vehicle:
+```python
+class Vehicle:
     def start(self):
         print("Vehicle starts")
 

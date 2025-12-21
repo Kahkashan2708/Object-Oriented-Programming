@@ -40,7 +40,8 @@ class Child(Parent):
 * Child can access all public and protected members of Parent
 
 ## Example of Inheritance
-```class Animal:
+```python
+class Animal:
     def speak(self):
         print("Animal makes a sound")
 
@@ -81,7 +82,7 @@ class Dog(Animal):
 The super() function is used to call methods or constructors of the parent class.
 
 
-```puyton
+```python
 class Parent:
     def __init__(self):
         print("Parent constructor")

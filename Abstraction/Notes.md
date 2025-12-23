@@ -65,6 +65,35 @@ from abc import ABC, abstractmethod
 
 class ClassName(ABC):
     @abstractmethod
-```
     def method_name(self):
         pass
+```
+---
+## 8. Example of Abstraction
+from abc import ABC, abstractmethod
+```python
+class Shape(ABC):
+    @abstractmethod
+    def area(self):
+        pass
+```
+
+Child class must implement area().
+
+## 9. Child Class Implementation
+```python
+class Rectangle(Shape):
+    def area(self):
+        print("Area = length × width")
+```
+## 10. Benefits of Abstraction
+
+* Simplifies complex systems
+
+* Improves code structure
+
+* Enforces method implementation
+
+* Enhances scalability
+
+* Supports polymorphism

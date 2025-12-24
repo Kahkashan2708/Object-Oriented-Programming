@@ -27,11 +27,11 @@ Object-Oriented Programming is a programming paradigm that organizes code into *
 
 ```
  Object-Oriented-Programming/
-├── classes-and-objects/
-├── encapsulation/
-├── inheritance/
-├── polymorphism/
-├── abstraction/
+├──Abstraction/
+├──Class-object/
+├── Encapsulation/
+├── Inheritance/
+├── Polymorphism/
 └── README.md
 ```
 ---

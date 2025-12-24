@@ -23,7 +23,16 @@ Object-Oriented Programming is a programming paradigm that organizes code into *
 
 ---
 
-##  Repository Structure
+## Repository Structure
+
+.
+├── classes-and-objects/
+├── encapsulation/
+├── inheritance/
+├── polymorphism/
+├── abstraction/
+└── examples/
+
 
 ---
 
